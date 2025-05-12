@@ -1,0 +1,20 @@
+* {
+    background-color: #0B2559;
+    color: #fff;
+}
+
+.navbar {
+    list-style: none;
+    display: flex;
+    position: absolute;
+    top: 28px;
+    right: 30px;
+    gap: 30px;
+    font-size: 20px;
+}
+
+#top {
+    border: 1px solid #fff;
+    padding: 10px;
+    font-size: 20px;;
+}
